@@ -5,6 +5,7 @@ because there were the most ambitious projects to do with a usage of Python. The
 and Statistica.
 
 ### Technology stack
-- Python
-
-- Jupyter Notebook
+- Python <br>
+- Jupyter Notebook <br>
+- MATLAB <br>
+- Statistica <br>
