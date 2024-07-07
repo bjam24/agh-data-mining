@@ -5,6 +5,8 @@ a usage of my favourite language Python. There are also other projects done in M
 
 ## Lab 1: Principal Component Analysis (PCA)
 
+## Lab 2: Classification
+
 ## Technology stack
 - Python <br>
 - Jupyter Notebook <br>
